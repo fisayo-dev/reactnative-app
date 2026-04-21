@@ -9,7 +9,7 @@ export default function Index() {
         alignItems: "center",
       }}
     >
-      <Text>Mobile Ok</Text>
+      <Text>Running app with Expo Go on Adroid Simulator</Text>
     </View>
   );
 }
