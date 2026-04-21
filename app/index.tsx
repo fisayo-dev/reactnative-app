@@ -9,7 +9,7 @@ export default function Index() {
         alignItems: "center",
       }}
     >
-      <Text>Running app with Expo Go on Adroid Simulator</Text>
+      <Text>Running app with Expo Go on Android Simulator</Text>
     </View>
   );
 }
