@@ -9,6 +9,11 @@ export default function App() {
         Welcome to Nativewind.
       </Text>
       <Link href="/(auth)/sign-up">Signup</Link>
+      <Text>Tabs</Text>
+      <Link href="/(tabs)/home">Home</Link>
+      <Link href="/(tabs)/play">Play</Link>
+      <Link href="/(tabs)/library">Library</Link>
+      <Link href="/(tabs)/profile">Profile</Link>
     </View>
   );
 }
