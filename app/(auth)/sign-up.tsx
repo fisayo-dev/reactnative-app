@@ -1,14 +1,11 @@
-import "@/global.css"
-import { Link } from "expo-router";
-import { Text, View } from "react-native";
+import { View, Text } from "react-native";
 
 export default function App() {
   return (
     <View className="flex-1 items-center justify-center bg-white">
       <Text className="text-xl font-bold text-green-500">
-        Welcome to Nativewind.
+        Sign up
       </Text>
-      <Link href="/(auth)/sign-up">Signup</Link>
     </View>
   );
 }
